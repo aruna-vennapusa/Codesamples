@@ -1,0 +1,4 @@
+au\com\workingmouse\challenge\services\FileServiceTest.class
+au\com\workingmouse\challenge\services\VelocityAndDirectionServiceTest.class
+au\com\workingmouse\challenge\models\VelocityAndDirectionDataTest.class
+au\com\workingmouse\challenge\MainTest.class

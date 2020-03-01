@@ -1,0 +1,6 @@
+au\com\workingmouse\challenge\config\Configuration.class
+au\com\workingmouse\challenge\Main.class
+au\com\workingmouse\challenge\models\VelocityAndDirectionData.class
+au\com\workingmouse\challenge\services\VelocityAndDirectionService.class
+au\com\workingmouse\challenge\services\FileService.class
+au\com\workingmouse\challenge\libs\HttpClient.class
